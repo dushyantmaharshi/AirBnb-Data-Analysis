@@ -1,6 +1,7 @@
 # AirBnb-Data-Analysis
 EDA of AirBnb NYC Data set
-\n
+
+
 Airbnb is an online marketplace connecting travelers with local hosts. On one side, the platform enables people to list their available space and earn extra income in the form of rent. On the other, Airbnb enablestravelers to book unique homestays from local hosts, saving them money and giving them a chance to interact with locals. Catering to the on demand travel industry, Airbnb is present in over 190 countries across the world.
 
 
